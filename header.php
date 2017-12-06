@@ -31,7 +31,7 @@
             </div> 
         </div>
         <nav>
-            <a href="homepage.php">Homepage</a> &nbsp;&nbsp;
+            <a href="homepage_GET.php">Homepage</a> &nbsp;&nbsp;
             <a href="logout.php">Sign out</a>
         </nav>
     </div>

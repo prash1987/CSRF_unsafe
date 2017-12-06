@@ -24,7 +24,7 @@
       if($count == 1) {
         $_SESSION['login_user'] = $email_id;
         $_SESSION['loggedin'] = true;
-        header('Location: homepage.php');   
+        header('Location: homepage_GET.php');   
       }else {
          $msg = "Authentication failed";
       }
